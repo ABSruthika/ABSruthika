@@ -2,7 +2,7 @@
 
 <h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Software Engineer</h3>
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="380" src="[https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=absruthika&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -116,12 +116,6 @@
 ## 📊 GitHub Activity Graph
 
 [![Sruthika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=absruthika&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏅 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=absruthika&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
