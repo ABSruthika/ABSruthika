@@ -25,4 +25,4 @@ Software Engineer with **1+ year of experience in enterprise application develop
 
 ### 🔗 Connect
 
-[LinkedIn](www.linkedin.com/in/sruthika-balamurugan1015) · [LeetCode](https://leetcode.com/u/sruthikabalamurugan/)
+[LinkedIn](https://www.linkedin.com/in/sruthika-balamurugan1015) · [LeetCode](https://leetcode.com/u/sruthikabalamurugan/)
